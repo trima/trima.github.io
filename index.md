@@ -2,7 +2,7 @@
 
 You can get in touch with me via email at **moncef [dot] trima [at] gmail [dot] com**
 
-*Links* : [Twitter](https://twitter.com/monceftrima) | [GitHub](https://github.com/trima)
+Links : [Twitter](https://twitter.com/monceftrima), [GitHub](https://github.com/trima)
 
 ---
 
