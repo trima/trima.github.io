@@ -1,4 +1,4 @@
-## Moncef Trima
+### Moncef Trima's <small>personal webpage</small>
 
 You can get in touch with me via email at **moncef [dot] trima [at] gmail [dot] com**
 
