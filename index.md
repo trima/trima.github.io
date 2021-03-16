@@ -5,9 +5,11 @@ You can get in touch with me via email at **moncef [dot] trima [at] gmail [dot] 
 Links : [Twitter](https://twitter.com/monceftrima), [GitHub](https://github.com/trima)
 
 ---
+<br />
 
 ### Publications
 - **Graphical notation and tool to design JCSP programs**  by Moncef Trima and Toufik Benouhiba. ISPS  2018. [DOI](https://doi.org/10.1109/ISPS.2018.8379013)
+<br />
 
 ### Teaching experience
 As a teaching assistant at UBMA university, I had the pleasure of teaching first year undergrads how to program.
