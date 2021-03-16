@@ -1,20 +1,8 @@
 ## Moncef Trima's <small>personal webpage</small>
 
-You can get in touch with me via email at **moncef [dot] trima [at] gmail [dot] com**
+I am mostly interested in concurrency, and in applying Computer Science to solve real world problems. I like long walks, hiking and taking the train...although, thanks to covid, I didn't get the chance to occupy myself with the last two, \*and\* to my disappointment, there are no railway services worthy of that name where I live. I also like long and deep conversations, about anything really (hum...more like what interests me:). Currently, I am looking for a job position as a programmer or as a consultant. You can get in touch with me via email at **moncef [dot] trima [at] gmail [dot] com**
 
-Links : [Twitter](https://twitter.com/monceftrima), [GitHub](https://github.com/trima)
-
----
-<br />
-
-### Publications
-- **Graphical notation and tool to design JCSP programs**  by Moncef Trima and Toufik Benouhiba. ISPS  2018. [DOI](https://doi.org/10.1109/ISPS.2018.8379013)
-<br />
-
-### Teaching experience
-As a teaching assistant at UBMA university, I had the pleasure of teaching first year undergrads how to program.
-- 2017-2018 - **Introduction to programming**. At the department of Math and CS. I designed the lab materials and examinations for my three groups. [Link](https://github.com/trima/L1MIAS2018){:target="_blank"}
-- 2017-2018 - **Programming with C**. At the departement of Science and Technology. [Link](https://github.com/trima/L1ST2018){:target="_blank"}
+[Twitter](https://twitter.com/monceftrima), [GitHub](https://github.com/trima)
 
 ---
 ### Posts
