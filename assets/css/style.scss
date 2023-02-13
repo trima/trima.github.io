@@ -3,8 +3,18 @@
 
 @import "jekyll-theme-minimal";
 
-.wrapper{
-  width: 720px;
+info {
+height: 400px;
+}
+
+.info-img {
+	float: left;
+	margin: 20px;
+	width: 25%;
+}
+
+.info-text {
+ float : right;
 }
 
 section{
