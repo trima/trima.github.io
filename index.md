@@ -1,17 +1,20 @@
 ---
 layout : default
 ---
+
 ## Moncef Trima
 
-<div><img class="info-img" src="https://avatars.githubusercontent.com/u/49733848" /></div>
+<img class="info-img" src="https://avatars.githubusercontent.com/u/49733848" />
 
 Software engineer from [Annaba](https://en.wikipedia.org/wiki/Annaba){:target="_blank"}. Currently looking for a job position.
 
-I am mostly interested in concurrency and in applying Computer Science to solve real world problems.
-  
-Email : moncef [dot] trima [at] gmail [dot] com
+I am mostly interested in concurrency and in applying Computer Science to solve real world problems. I like long walks, hiking and going on trips by train…although, thanks to covid, I didn’t get the chance to occupy myself with the last two and, to my disappointment, there are no railway services worthy of that name where I live.
 
-Social : [Blog](https://trima.github.io/blog) - [Twitter](https://twitter.com/monceftrima) - [GitHub](https://github.com/trima) - [LinkedIn](https://www.linkedin.com/in/monceftrima)
+Deep and long conversations are one of my favorite kinds of interactions. I like to talk about anything really (hum…more like what interests me :), but I most certainly enjoy being alone with my thoughts.
+
+You can get in touch with me at **moncef [dot] trima [at] gmail [dot] com** or via social :
+ 
+[Twitter](https://twitter.com/monceftrima) - [GitHub](https://github.com/trima) - [LinkedIn](https://www.linkedin.com/in/monceftrima)
 
 -----
 
@@ -22,11 +25,11 @@ Social : [Blog](https://trima.github.io/blog) - [Twitter](https://twitter.com/mo
 
 <br>
 
-
 ### Teaching
 As a teaching assistant at UBMA university, I had the pleasure of teaching first year undergrads how to program.
 - 2017-2018 - **Introduction to programming**. At the department of Math and CS. I designed the lab materials and examinations for my three groups. [Link](https://github.com/trima/L1MIAS2018){:target="_blank"}
 - 2017-2018 - **Programming with C**. At the departement of Science and Technology. [Link](https://github.com/trima/L1ST2018){:target="_blank"}
+
 
 
 <br>
@@ -38,3 +41,14 @@ As a teaching assistant at UBMA university, I had the pleasure of teaching first
 
 ### Projects
 Check my GitHub [page](https://github.com/trima) for all my contributions.
+
+<br>
+
+### Posts
+<ul>
+  {% for post in site.posts %}
+    <li>
+      {{ post.date | date_to_string }} <a href="{{ post.url }}">{{ post.title }}</a> 
+    </li>
+  {% endfor %}
+</ul>
