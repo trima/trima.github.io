@@ -3,8 +3,18 @@
 
 @import "jekyll-theme-minimal";
 
+body {
+	font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color:#626262;
+}
+
+
+.wrapper{
+	width: 720px;
+}
+
 info {
-height: 400px;
+	height: 400px;
 }
 
 .info-img {
@@ -14,7 +24,7 @@ height: 400px;
 }
 
 .info-text {
- float : inline-start;
+ 	float : inline-start;
 }
 
 section{
@@ -24,4 +34,14 @@ section{
 
 header, footer {
   display:none;
+}
+
+a:hover, a:focus {
+  color:#069;
+  font-weight:normal;
+}
+
+a:active {
+	color:#990000;
+	font-weight:normal;
 }
