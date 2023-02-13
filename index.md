@@ -4,16 +4,15 @@ layout : default
 ## Moncef Trima
 
 <div id="info">
-  
-  <div><img class="info-img" src="https://avatars.githubusercontent.com/u/49733848" /></div>
-  <div class"info-text"> 
-    Software engineer from [Annaba](https://en.wikipedia.org/wiki/Annaba){:target="_blank"}. Currently looking for a job position.
+<div><img class="info-img" src="https://avatars.githubusercontent.com/u/49733848" /></div>
+<div class"info-text"> 
+Software engineer from [Annaba](https://en.wikipedia.org/wiki/Annaba){:target="_blank"}. Currently looking for a job position.
 
-    I am mostly interested in concurrency and in applying Computer Science to solve real world problems. 
+I am mostly interested in concurrency and in applying Computer Science to solve real world problems. 
   
-    Email : moncef [dot] trima [at] gmail [dot] com
-    Social : [Blog]() - [Twitter](https://twitter.com/monceftrima) - [GitHub](https://github.com/trima) - [LinkedIn](https://www.linkedin.com/in/monceftrima)
-  </div>
+Email : moncef [dot] trima [at] gmail [dot] com
+Social : [Blog]() - [Twitter](https://twitter.com/monceftrima) - [GitHub](https://github.com/trima) - [LinkedIn](https://www.linkedin.com/in/monceftrima)
+</div>
 </div>
 
 -----
