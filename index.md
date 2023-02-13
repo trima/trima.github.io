@@ -2,16 +2,19 @@
 layout : default
 ---
 ## Moncef Trima
-Software engineer from [Annaba](https://en.wikipedia.org/wiki/Annaba){:target="_blank"}. Currently looking for a job position.
 
-I am mostly interested in concurrency and in applying Computer Science to solve real world problems. I like long walks, hiking and going on trips by train…although, thanks to covid, I didn’t get the chance to occupy myself with the last two and, to my disappointment, there are no railway services worthy of that name where I live.
-
-Deep and long conversations are one of my favorite kinds of interactions. I like to talk about anything really (hum…more like what interests me :), but I most certainly enjoy being alone with my thoughts. 
+<div id="info">
   
-You can get in touch with me via email at **moncef [dot] trima [at] gmail [dot] com**
+  <div><img class="info-img" src="https://avatars.githubusercontent.com/u/49733848" /></div>
+  <div class"info-text"> 
+    Software engineer from [Annaba](https://en.wikipedia.org/wiki/Annaba){:target="_blank"}. Currently looking for a job position.
 
-[Twitter](https://twitter.com/monceftrima) - [GitHub](https://github.com/trima) - [LinkedIn](https://www.linkedin.com/in/monceftrima)
-    
+    I am mostly interested in concurrency and in applying Computer Science to solve real world problems. 
+  
+    Email : moncef [dot] trima [at] gmail [dot] com
+    Social : [Blog]() - [Twitter](https://twitter.com/monceftrima) - [GitHub](https://github.com/trima) - [LinkedIn](https://www.linkedin.com/in/monceftrima)
+  </div>
+</div>
 
 -----
 
@@ -22,9 +25,12 @@ You can get in touch with me via email at **moncef [dot] trima [at] gmail [dot] 
 
 <br>
 
+
 ### Teaching
-- 2017-2018 - [Introduction to programming](https://github.com/trima/L1MIAS2018){:target="_blank"}
-- 2017-2018 - [Programming with C](https://github.com/trima/L1ST2018){:target="_blank"}
+As a teaching assistant at UBMA university, I had the pleasure of teaching first year undergrads how to program.
+- 2017-2018 - **Introduction to programming**. At the department of Math and CS. I designed the lab materials and examinations for my three groups. [Link](https://github.com/trima/L1MIAS2018){:target="_blank"}
+- 2017-2018 - **Programming with C**. At the departement of Science and Technology. [Link](https://github.com/trima/L1ST2018){:target="_blank"}
+
 
 <br>
 
