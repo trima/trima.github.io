@@ -14,7 +14,7 @@ Deep and long conversations are one of my favorite kinds of interactions. I like
 
 You can get in touch with me at **moncef [dot] trima [at] gmail [dot] com** or via social :
  
-[Twitter](https://twitter.com/monceftrima) - <a href="https://github.com/trima"><img src="img/GitHub-Mark-Light-32px.png" alt="github" width="20"></a> - [LinkedIn](https://www.linkedin.com/in/monceftrima)
+[Twitter](https://twitter.com/monceftrima) - <a href="https://github.com/trima"><img src="/assets/img/GitHub-Mark-Light-32px.png" alt="github" width="20"></a> - [LinkedIn](https://www.linkedin.com/in/monceftrima)
 
 -----
 
