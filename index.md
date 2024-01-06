@@ -13,13 +13,14 @@ I am mostly interested in concurrency and in applying Computer Science to solve 
 Deep and long conversations are one of my favorite kinds of interactions. I like to talk about anything really (hum…more like what interests me :), but I most certainly enjoy being alone with my thoughts.
 
 You can get in touch with me at **moncef [dot] trima [at] gmail [dot] com** or via social :
- 
-[Twitter](https://twitter.com/monceftrima) - <a href="https://github.com/trima"><img src="/assets/img/GitHub-Mark-Light-32px.png" alt="github" width="20"></a> - [LinkedIn](https://www.linkedin.com/in/monceftrima)
+
+<a href="https://github.com/trima"><img src="/assets/img/GitHub-Mark-Light-32px.png" alt="github" width="20"></a> <a href="https://www.linkedin.com/in/monceftrima"><img src="/assets/img/in-big.png" alt="github" width="20"></a>
 
 -----
 
 <br>
      
+
 ### News
 - As of December 2020, I am no longer part of the LISCO laboratory, University of Annaba.
 
