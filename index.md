@@ -6,7 +6,7 @@ layout : default
 
 <img class="info-img" src="https://avatars.githubusercontent.com/u/49733848" />
 
-Software engineer from [Annaba](https://en.wikipedia.org/wiki/Annaba){:target="_blank"}. Currently looking for a job position.
+Software engineer from [Annaba](https://en.wikipedia.org/wiki/Annaba){:target="_blank"}.
 
 I am mostly interested in concurrency and in applying Computer Science to solve real world problems. I like long walks, hiking and going on trips by train…although, thanks to covid, I didn’t get the chance to occupy myself with the last two and, to my disappointment, there are no railway services worthy of that name where I live.
 
