@@ -23,6 +23,7 @@ You can get in touch with me at **moncef [dot] trima [at] gmail [dot] com** or v
 
 ### News
 |    December 2020    |    I am no longer part of the LISCO laboratory, University of Annaba. |
+| ----                |              ------                                                   |
 
 <br>
 
