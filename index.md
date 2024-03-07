@@ -16,8 +16,7 @@ You can get in touch with me at **moncef [dot] trima [at] gmail [dot] com** or v
 
 <a href="https://github.com/trima"><img src="/assets/img/GitHub-Mark-Light-32px.png" alt="github" width="20"></a> <a href="https://www.linkedin.com/in/monceftrima"><img src="/assets/img/in-big.png" alt="github" width="20"></a>
 
------
-
+<br>
 <br>
      
 
