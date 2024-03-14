@@ -6,11 +6,9 @@ layout : default
 
 <img class="info-img" src="https://avatars.githubusercontent.com/u/49733848" />
 
-Software engineer from [Annaba](https://en.wikipedia.org/wiki/Annaba){:target="_blank"}.
+Software engineer.
 
-I am mostly interested in concurrency and in applying Computer Science to solve real world problems. I like long walks, hiking and going on trips by train…although, thanks to covid, I didn’t get the chance to occupy myself with the last two and, to my disappointment, there are no railway services worthy of that name where I live.
-
-Deep and long conversations are one of my favorite kinds of interactions. I like to talk about anything really (hum…more like what interests me :), but I most certainly enjoy being alone with my thoughts.
+My interests include Concurrency and using Computer Science to solve real-world problems. Recently, my interest has shifted towards more applicative areas of Software Engineering. Long walks, hiking and going on trips by train are a few examples of the activities I enjoy…although, to my disappointment, there are no railway services worthy of that name [where I live](https://en.wikipedia.org/wiki/Annaba){:target="_blank"}..
 
 You can get in touch with me at **moncef [dot] trima [at] gmail [dot] com** or via social :
 
