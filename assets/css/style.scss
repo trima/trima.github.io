@@ -21,7 +21,7 @@ tbody tr:nth-child(3n+3) {
             background-color: rgba(177, 160, 249, 0.3); 
 }
 
-span[class~="pub"]{
+span[class^="pub"]{
 	border-radius: 10%;
 	border: 1px solid #e5e5e5;
 	padding:1px 7px;
