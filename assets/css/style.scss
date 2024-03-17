@@ -8,44 +8,51 @@ body {
 	color:#626262;
 }
 
-
-tbody tr:nth-child(3n+1) {
-            background-color: rgba(177, 160, 249, 0.1);
+ul {
+	margin-left:-20px
 }
 
-tbody tr:nth-child(3n+2) {
-            background-color: rgba(177, 160, 249, 0.2); 
+tbody tr:nth-child(2n+1) {
+            background-color: rgba(246, 248, 250, 1); 
 }
-        
-tbody tr:nth-child(3n+3) {
-            background-color: rgba(177, 160, 249, 0.3); 
+
+th, td {
+	border-bottom:1px solid #d0d7de;
+}
+
+table{
+	border:1px solid #d0d7de;
 }
 
 span[class^="pub"]{
-	border-radius: 10px;
-	border: 1px solid #e5e5e5;
+	border-radius: 0px 0px 10px 0px;
 	padding:1px 7px;
 	font-weight:bold;
 }
 
 .pub_conference{
-	background-color:#f5f7f9;
+	background-color:#edf2f7;
+	border-left:3px solid #0969da;
 }
 
 .pub_article{
-	background-color:#e1f2e5;
+	background-color:#ffffcc;
+	border-left:3px solid #f7d12e;
 }
 
 .pub_preprint{
 	background-color:#fdf6ec;
+	border-left:3px solid #e7af06;
 }
 
 .pub_report{
-	background-color:#ffffcc;
+	background-color:#e1f2e5;
+	border-left: 3px solid #009c7b;
 }
 
 .pub_book{
 	background-color:#fde2bc;
+	border-left: 3px solid #9a6700;
 }
 
 .wrapper{
@@ -61,12 +68,51 @@ info {
 	margin: 0px 0px 40px 40px;
 	width: 25%;
 	border-radius: 0%;
-	border: 1px solid #e5e5e5;
+	border: 1px solid #d0d7de;
 	padding:3px;
 }
 
 .info-text {
  	float : inline-start;
+}
+
+.project {
+	border:1px solid #d0d7de;
+	margin-bottom:20px;
+}
+
+.project-desc{
+	padding:10px;
+}
+
+.project-status {
+	background:#f6f8fa;
+	border-top:1px solid #d0d7de;
+	padding:10px;
+}
+
+.project-status .ongoing {
+	background-color:#009c7b;
+	border-radius:10px;
+	border:3px solid #e1f2e5;
+	padding:1px 3px;
+	margin-right:5px;
+}
+
+.project-status .ended {
+	background-color:#9a6700;
+	border-radius:10px;
+	border:3px solid #fde2bc;
+	padding:1px 3px;
+	margin-right:5px;
+}
+
+.project-status .discontinued {
+	background-color:#626262;
+	border-radius:10px;
+	border:3px solid #e5e5e5;
+	padding:1px 3px;
+	margin-right:5px;
 }
 
 section{
