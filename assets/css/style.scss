@@ -21,12 +21,19 @@ tbody tr:nth-child(3n+3) {
             background-color: rgba(177, 160, 249, 0.3); 
 }
 
-
-.conference{
-	border-radius: 12%;
+span[class~="pub"]{
+	border-radius: 10%;
 	border: 1px solid #e5e5e5;
 	padding:1px 7px;
+	font-weight:bold;
+}
+
+.pub_conference{
 	background-color:#f5f7f9;
+}
+
+.pub_article{
+	background-color:##e1f2e5;
 }
 
 .wrapper{
