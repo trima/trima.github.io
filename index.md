@@ -37,7 +37,7 @@ As a teaching assistant at UBMA university, I had the pleasure of teaching first
 <br>
 
 ### Publications
-- <strong class="conference">Graphical notation and tool to design JCSP programs</strong>  by Moncef Trima and Toufik Benouhiba. ISPS  2018. [DOI](https://doi.org/10.1109/ISPS.2018.8379013)
+- <span class="pub_conference">Graphical notation and tool to design JCSP programs</span>  by Moncef Trima and Toufik Benouhiba. ISPS  2018. [DOI](https://doi.org/10.1109/ISPS.2018.8379013)
 
 <br>
 
