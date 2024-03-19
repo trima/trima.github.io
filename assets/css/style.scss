@@ -12,6 +12,15 @@ ul {
 	margin-left:-20px
 }
 
+ul:has(span[class^="pub"]){
+	list-style-type:none;
+	margin-left:-30px;
+}
+
+li:has(span[class^="pub"]){
+	margin-bottom:10px;
+}
+
 tbody tr:nth-child(2n+1) {
             background-color: rgba(246, 248, 250, 1); 
 }
@@ -27,6 +36,30 @@ table{
 span[class^="pub"]{
 	border-radius: 0px 0px 10px 0px;
 	padding:1px 7px;
+	font-weight:bold;
+}
+
+span:has(a[class*="heading"]) {
+	border-bottom:1px solid #efefef;
+	display:block;
+	margin-bottom: 30px;
+	margin-top:10px;
+	padding:3px 3px 3px 0px;
+}
+
+a.custom-heading-3 {
+	text-decoration:none;
+	color:#494949;
+	border-bottom:1px solid #fd8c73;
+	padding:3px 7px 4px 0px;
+	font-size:16px;
+	font-weight:bold;
+}
+
+a.custom-heading-3:hover, active, visited {
+	text-decoration:none;
+	color:#494949;
+	font-size:16px;
 	font-weight:bold;
 }
 
