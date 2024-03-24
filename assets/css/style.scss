@@ -158,8 +158,9 @@ header, footer {
 }
 
 a:hover, a:focus {
-  color:#069;
-  font-weight:normal;
+  	color:#069;
+  	font-weight:normal;
+	text-decoration: underline;
 }
 
 a:active {
